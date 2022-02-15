@@ -2,6 +2,9 @@
 title: Recent & Upcoming Talks
 cms_exclude: true
 
+# Activate this widget? true/false
+active: false
+
 # View.
 #   1 = List
 #   2 = Compact
