@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: ETS Montreal
+    company_url: 'https://josedolz.github.io/'
+    #company_logo: org-gc
+    location: Remote (Montreal, Canada)
+    date_start: '2022-04-01'
+    date_end: ''
+    description: Working on neural network calibration for reliable predictions in a semantic segmentation task mentored by Prof. Jose Dolz.
+  
   - title: ML Engineer Intern
     company: Affine Analytics
     company_url: 'https://affine.ai/'
     #company_logo: org-gc
     location: Remote (Bangalore, India)
-    date_start: '2022-01-20'
-    date_end: ''
+    date_start: '2022-01-01'
+    date_end: '2022-03-01'
     description: Developing subpixel processing pipelines for edge detection and dimension measurements.
         
-  #- title: Professor of Semiconductor Physics
-    #company: University X
-    #company_url: ''
-    #company_logo: org-x
-    #location: California
-    #date_start: '2016-01-01'
-    #date_end: '2020-12-31'
-    #description: Taught electronic engineering and researched semiconductor physics.
-
 design:
   columns: '1'
 ---
