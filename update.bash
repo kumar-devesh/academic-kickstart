@@ -5,15 +5,17 @@ if [ -z "$1" ]; then
   exit 1
 else
   git add -A
-  git commit -am "$1"
-  git push
+  #git commit -am "$1"
+  git commit --amend -m "$1"
+  git push --force
 
   hugo
 
   cd public
   git add -A
-  git commit -am "$1"
-  git push
+  #git commit -am "$1"
+  git commit --amend -m "$1"
+  git push --force
 
   cd ..
 fi
