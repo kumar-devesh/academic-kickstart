@@ -6,7 +6,7 @@ title: Kumar Devesh
 superuser: true
 
 # Role/position/tagline
-role: 2nd Year CS Undergraduate
+role: CS Junior
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -66,7 +66,7 @@ email: "kumar_d@cs.iitr.ac.in"
 highlight_name: true
 ---
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
-Hi! I am a second year student at IIT Roorkee majoring in Computer Science and Engineering. I passionately follow innovations in 
+Hi! I am a third year student at IIT Roorkee majoring in Computer Science and Engineering. I passionately follow innovations in 
 the fields of computer science with potential real world impacts, particularly interested in deep learning. 
 
 At IIT Roorkee I am a member of a deep learning centric discussion group named [Vision and Language Group](https://vlgiitr.github.io/) which conducts workshops and holds

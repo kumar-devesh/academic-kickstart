@@ -27,9 +27,9 @@ experience:
     company_url: 'https://josedolz.github.io/'
     #company_logo: org-gc
     location: Remote (Montreal, Canada)
-    date_start: '2022-04-01'
+    date_start: '2022-05-01'
     date_end: ''
-    description: Working on neural network calibration for reliable predictions in a semantic segmentation task mentored by Prof. Jose Dolz.
+    description: Working on neural network calibration for reliable predictions in a semantic segmentation task by developing a novel label smoothing method for segmentation of medical images mentored by Prof. Jose Dolz.
   
   - title: ML Engineer Intern
     company: Affine Analytics
@@ -37,9 +37,10 @@ experience:
     #company_logo: org-gc
     location: Remote (Bangalore, India)
     date_start: '2022-01-01'
-    date_end: '2022-03-01'
-    description: Developing subpixel processing pipelines for edge detection and dimension measurements.
+    date_end: '2022-05-01'
+    description: Worked on dimension measurement of objects using machine vision and machine learning algorithms. Developed subpixel processing pipelines for edge detection and dimension measurements.
         
 design:
-  columns: '1'
+  view: 'compact'
+  columns: '2'
 ---
